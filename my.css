@@ -1,0 +1,181 @@
+body {
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.nav-menu{
+    float: left;
+    font-size: 16px;
+}
+
+.nav-logo {
+    margin-right: 10px;
+    float: left !important;
+}
+
+#logo-codegym {
+    width: 100%;
+    height: auto;
+}
+
+.nav-search{
+
+}
+.background {
+    /*background-image: url("demo-codegym.jpg") !important;*/
+    width: 100%;
+    padding: 5px;
+    background-color: saddlebrown;
+}
+
+.background-map {
+    width: 100%;
+    padding: 5px;
+    float: left;
+}
+
+.background-contact {
+    width: 100%;
+    float: right;
+}
+
+.background-career-accelerator-premium {
+    width: 100%;
+    padding: 5px;
+
+}
+
+.background-header {
+    background-image: url("img/logo-two.jpg");
+    background-size: cover;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.thumb{
+    width: 100%;
+    background-color: #3e3e3e;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.logo-content {
+    margin: 150px 0px 150px 50px;
+    color: blue;
+}
+
+.introduce-content {
+    padding: 20px !important;
+}
+
+.background-target {
+    background-color: #404040;
+!important;
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-size: 60px;
+    border: 2px;
+}
+
+#image-content {
+    float: right;
+    text-align: center;
+    background-color: #404040;;
+    width: 100%;
+    height: 100%;
+}
+
+.row-image {
+    padding: 30px !important;
+
+}
+
+div > h5 {
+    color: white;
+!important;
+}
+
+.row-three-content {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.row-four-content {
+    margin-bottom: 30px !important;
+}
+
+
+.career-accelerator-premium {
+    width: 100%;
+    text-align: center;
+    border-radius: 1px;
+    float: left;
+}
+
+.card-content {
+    font-size: 16px !important;
+    margin-left: 10px;
+}
+
+.event-image {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.map {
+    width: 97% !important;
+    height: auto;
+    float: left;
+
+}
+
+#header-career {
+    text-align: center;
+}
+
+.contact {
+    float: left;
+    width: 199% !important;
+
+}
+
+textarea {
+    overflow: auto;
+    resize: vertical;
+}
+
+.submit-contact {
+    text-align: center !important;
+}
+
+.footer {
+    margin: 20px 0px 0px 0px;
+    width: 100%;
+    height: 200px;
+    background-color: #272882;
+}
+
+.footer-instruction {
+    padding: 10px auto !important;
+    float: left;
+}
+
+.footer-content {
+    padding: 20px 0px 0px 30px;
+    color: white;
+}
+
+.gmail {
+    padding-top: 10px;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
