@@ -1,0 +1,22 @@
+{
+  "name": "demo-codgym",
+  "version": "1.0.0",
+  "description": "this is practice about css and layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test here"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dovanhanh1997/demo-codygym.git"
+  },
+  "keywords": [
+    "dovanhanh@1997"
+  ],
+  "author": "dovanhanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dovanhanh1997/demo-codygym/issues"
+  },
+  "homepage": "https://github.com/dovanhanh1997/demo-codygym#readme"
+}
